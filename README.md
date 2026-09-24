@@ -19,23 +19,21 @@
 
 ---
 
-### I like difficult problems, useful systems, and ideas that refuse to stay in one field.
+## hello.
 
-I move between **mathematics, physics, systems, scientific software, accessibility, simulation and whatever else becomes interesting enough to build around**.
+hey, i'm `vitae0`.
 
-I tend to learn by making things: a tool, a model, a language, a simulation, an experiment, sometimes an entire project that probably should have remained a weekend idea. I care more about whether something is **interesting, rigorous and actually useful** than whether it fits neatly into one category.
+i'm usually somewhere between a math rabbit hole, a Linux terminal, a half-built tool, and a project that got **way bigger than it was supposed to**.
 
-```text
-curiosity → build → understand → push further
-      ↑                              |
-      └──────────────────────────────┘
-```
+I like figuring out how things work and then making something out of that. Sometimes that means number theory or scientific software; sometimes it turns into an accessibility tool, a simulator, a tiny operating environment, or a completely unnecessary side project that I now care about far too much.
 
-I am usually happiest somewhere between `why does this work?` and `can I build a better version?`
+I don't really try to stay in one lane. If an idea is interesting enough, I'll probably poke at it until it becomes a repo.
 
-<p align="center">
-  <img src="./assets/signal.svg" alt="animated research signal" width="92%" />
-</p>
+### quote of the day
+
+<!-- QUOTE_START -->
+> *“Take interesting ideas seriously, not yourself.”*
+<!-- QUOTE_END -->
 
 ## Selected work
 
