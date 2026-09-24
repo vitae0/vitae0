@@ -29,10 +29,11 @@ I like figuring out how things work and then making something out of that. Somet
 
 I don't really try to stay in one lane. If an idea is interesting enough, I'll probably poke at it until it becomes a repo.
 
-### quote of the day
+<p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
 <!-- QUOTE_START -->
-> *“Do not confuse polish with depth.”*
+<h2 align="center"><i>“The best way to predict the future is to invent it.”</i></h2>
+<p align="center"><sub>— Alan Kay</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
