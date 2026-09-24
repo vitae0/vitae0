@@ -131,21 +131,43 @@ It is one of the projects where software has to survive contact with actual hard
 </table>
 
 <details>
-<summary><b>More projects / experiments</b></summary>
+<summary><b>More projects / experiments</b> — smaller builds, prototypes and side quests</summary>
 <br>
 
-These are smaller tools, experiments, prototypes or projects that are not the main focus of this profile.
+Not everything needs to become a five-year research program. These are smaller tools, experiments, prototypes and projects I built because the problem was interesting enough to deserve code.
 
-- **Netra** *(WIP · private)* — Debian-first network visibility and authorized security-assessment workbench.
-- **Wayfarer** *(WIP · private)* — compact persistent Debian live USB / recovery environment.
-- **AthanorLab** *(WIP · private)* — programmable scientific simulation workbench with composable physics modules.
-- **IPA Studio** *(WIP · private)* — speech acoustics, IPA reference estimation and accent-model research.
-- **Code Atlas** *(WIP · private)* — local-first visual code reader for symbol and dependency exploration.
+#### Systems & developer tools
+
+- **Netra** *(WIP · private)* — Debian-first network visibility and authorized security-assessment workbench built around Nmap, TShark, Zeek, Suricata and related tools.
+- **Wayfarer** *(WIP · private)* — compact persistent Debian live USB for recovery, diagnostics and portable computing.
+- **Code Atlas** *(WIP · private)* — local-first Tauri/Rust visual code reader for exploring files, symbols and dependency relationships.
 - **[linfo](https://github.com/vitae0/linfo)** / **[winfo](https://github.com/vitae0/winfo)** — terminal-first Linux and Windows system-information shells.
+- **[QueueGPT](https://github.com/vitae0/queuegpt)** — browser extension that queues prompts while ChatGPT is still generating.
+- **LoviHub** *(WIP · private)* — local video-library desktop application.
+- **Focus Forge** *(WIP · private)* — local-first task board and focus timer.
+
+#### Science, math & modelling
+
+- **AthanorLab** *(WIP · private)* — programmable scientific simulation workbench with composable physics modules.
+- **IPA Studio** *(WIP · private)* — speech acoustics, IPA-reference estimation and accent-model research.
 - **[Circuitry](https://github.com/vitae0/circuitry)** — grid-native browser circuit simulator.
-- **[QueueGPT](https://github.com/vitae0/queuegpt)** — browser extension for queueing prompts while ChatGPT is generating.
-- **[Games & simulations](https://github.com/vitae0/games)** — browser-native games and interactive scientific simulations.
-- **[KSpiel](https://github.com/vitae0/kspiel)** — experimental command, logistics and political simulation.
+- **Football Prediction System** *(WIP · private)* — leakage-safe football prediction and Monte Carlo tournament simulation.
+- **Research portals** — local C/Python tooling for turning one-off computations into reproducible datasets and benchmark runs.
+
+#### Apps & product experiments
+
+- **Pace** *(WIP · private)* — local-first academic planner with structured topic/task data and AI-plan import.
+- **Audra** *(WIP · private)* — mobile-first music discovery experiment with behavior-driven recommendation architecture.
+- **İyilik Pasaportu** *(WIP · private)* — experimental social-impact project.
+- **inat-site** *(WIP · private)* — web experiment / prototype.
+
+#### Games & simulations
+
+- **[Games & simulations](https://github.com/vitae0/games)** — collection of browser-native games and interactive scientific simulations.
+- **[KSpiel](https://github.com/vitae0/kspiel)** — command, logistics and political simulation.
+- **[Dungeon Ascendant](https://github.com/vitae0/funtest)** — dependency-free browser raycasting roguelike FPS.
+- **[Backrooms](https://github.com/vitae0/backrooms)** — browser game / environment experiment.
+- **[Dungeon](https://github.com/vitae0/dungeon)** — another small browser-game experiment.
 
 </details>
 
@@ -162,17 +184,83 @@ These are smaller tools, experiments, prototypes or projects that are not the ma
 08  ship, then make the abstraction earn its existence
 ```
 
-## Working stack
+## Tech stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub>CORE / SYSTEMS</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Debian-111111?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <a href="https://www.c-language.org/" title="C"><img src="https://skillicons.dev/icons?i=c" width="44" alt="C"></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="44" alt="C++"></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"></a>
+  <a href="https://www.rust-lang.org/" title="Rust"><img src="https://skillicons.dev/icons?i=rust" width="44" alt="Rust"></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="44" alt="Bash"></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux"></a>
+  <a href="https://www.debian.org/" title="Debian"><img src="https://skillicons.dev/icons?i=debian" width="44" alt="Debian"></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>WEB / PRODUCT</sub>
+
+<p>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript"></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js"></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"></a>
+  <a href="https://vite.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite" width="44" alt="Vite"></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS"></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<sub>DATA / INFRA</sub>
+
+<p>
+  <a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" width="44" alt="SQLite"></a>
+  <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="44" alt="Supabase"></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"></a>
+  <a href="https://cmake.org/" title="CMake"><img src="https://skillicons.dev/icons?i=cmake" width="44" alt="CMake"></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>COMPUTE / ML</sub>
+
+<p>
+  <a href="https://numpy.org/" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" alt="NumPy"></a>
+  <a href="https://pytorch.org/" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" width="44" alt="PyTorch"></a>
+  <a href="https://onnx.ai/" title="ONNX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/onnx/onnx-original.svg" width="44" alt="ONNX"></a>
+  <a href="https://opencv.org/" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv" width="44" alt="OpenCV"></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<sub>I use whatever makes the experiment easier to inspect and reproduce. Logos are tools, not personality traits.</sub>
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitae0&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="vitae0 GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitae0&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="vitae0 top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitae0&theme=transparent&hide_border=true" alt="vitae0 contribution streak" />
 </p>
 
 <details>
