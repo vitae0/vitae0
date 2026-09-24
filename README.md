@@ -13,6 +13,8 @@
   <a href="https://github.com/vitae0?tab=repositories">repositories</a>
   ·
   <a href="https://novuscollective.org">novus collective</a>
+  ·
+  <a href="https://novus.study">novus.study</a>
 </p>
 
 ---
@@ -45,7 +47,7 @@ question → model → compute → break assumption → rebuild → verify
 ### ζ(5) research
 A computational number theory project investigating an Apéry-style route to the irrationality of `ζ(5)`.
 
-Current work revolves around exact rational forms, Brown–Zudilin constructions, p-adic denominator obstructions, asymptotics and falsifying attractive-but-wrong denominator models.
+The work combines exact rational constructions, Brown–Zudilin periods, p-adic denominator analysis, asymptotics, large finite searches and deliberate attempts to break every promising conjecture before trusting it.
 
 **Status:** WIP · active research · private working archive
 
@@ -53,11 +55,11 @@ Current work revolves around exact rational forms, Brown–Zudilin constructions
 <td width="50%" valign="top">
 
 ### Noetica
-A local-first mathematical research laboratory for experimental mathematics, symbolic work, sequence discovery, counterexample search and proof preparation.
+A local-first mathematical research laboratory for experimental mathematics, counterexample search, symbolic work and proof preparation.
 
-The rule is simple: **AI can propose; deterministic tools verify.**
+The long-term goal is an AI-assisted research environment where model-driven exploration is separated from deterministic verification.
 
-**Status:** WIP · active · local research infrastructure
+**Status:** WIP · private
 
 </td>
 </tr>
@@ -65,22 +67,20 @@ The rule is simple: **AI can propose; deterministic tools verify.**
 <tr>
 <td width="50%" valign="top">
 
-### Netra
-A Debian-first network visibility and authorized security-assessment workbench.
+### [Novus Collective](https://novuscollective.org)
+An independent student collective built around collaboration, ambitious projects and giving young people room to create work that would otherwise never leave a notebook.
 
-It unifies mature Linux tools under one scope policy, one workspace and one report layer instead of pretending to replace them.
-
-**Status:** WIP · active · private
+**Founder.** I work on its direction, infrastructure, platform and projects.
 
 </td>
 <td width="50%" valign="top">
 
-### Wayfarer
-A compact Debian-based persistent live USB environment.
+### [novus.study](https://novus.study)
+A learning and project workspace being built around reusable tools, personal workspaces and a more exploratory way of studying technical subjects.
 
-Portable desktop, recovery environment and diagnostics kit, with every package forced to justify its place.
+It is part of the broader Novus ecosystem rather than just a landing page.
 
-**Status:** WIP · active · private
+**Status:** WIP · private codebase
 
 </td>
 </tr>
@@ -91,17 +91,19 @@ Portable desktop, recovery environment and diagnostics kit, with every package f
 ### Asia
 An experimental compiled language for mathematical and computational research.
 
-It is designed around semantic mathematical objects, exactness metadata and native compilation rather than treating mathematics as decorated generic code.
+Its design treats sums, limits, algebraic structures and other mathematical objects as semantic objects with exactness and complexity metadata, rather than reducing everything immediately to generic arrays and functions.
 
 **Status:** WIP · private
 
 </td>
 <td width="50%" valign="top">
 
-### [GazeType](https://github.com/vitae0/gazetype)
-A camera-based accessibility system for typing with eye movement.
+### Square Packing 17
+A computational-geometry research project searching for dense packings of 17 equal squares.
 
-It combines personal calibration, gaze modelling, signal analysis and conservative model reporting, with the broader goal of making hands-free computer interaction practical on ordinary hardware.
+It combines simulated annealing, differential evolution, CMA-ES-style search, basin hopping, contact analysis and exact/algebraic reconstruction to turn numerical candidates into mathematical structure.
+
+**Status:** WIP · private research code
 
 </td>
 </tr>
@@ -109,33 +111,41 @@ It combines personal calibration, gaze modelling, signal analysis and conservati
 <tr>
 <td width="50%" valign="top">
 
-### [linfo](https://github.com/vitae0/linfo) / [winfo](https://github.com/vitae0/winfo)
-Small terminal-first system information shells for Linux and Windows.
+### [GazeType](https://github.com/vitae0/gazetype)
+A camera-based accessibility system for typing with eye movement on ordinary hardware.
 
-Short commands, minimal dependencies, honest fallbacks and no scavenger hunt through ten different utilities.
+It combines gaze estimation, personal calibration, signal processing and conservative model reporting, with the broader goal of practical hands-free computer interaction without specialized eye-tracking equipment.
 
 </td>
 <td width="50%" valign="top">
 
-### [Novus Collective](https://novuscollective.org)
-An independent student collective built around collaboration, ambitious projects and giving people room to make things that would otherwise never leave a notebook.
+### CanSat
+An embedded flight-system project combining onboard sensors, GPS, camera hardware, telemetry and a ground-station receiver/dashboard.
 
-I work on the platform, infrastructure and projects around it.
+It is one of the projects where software has to survive contact with actual hardware, radio links and noisy measurements, which is a refreshingly effective cure for elegant assumptions.
+
+**Status:** WIP · private
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More things currently escaping containment</b></summary>
+<summary><b>More projects / experiments</b></summary>
 <br>
 
-- **IPA Studio** *(WIP)* — native speech-analysis workbench for acoustics, IPA reference estimation and accent-model research.
-- **AthanorLab** *(WIP)* — programmable scientific simulation workbench for composable physics experiments.
-- **Games & simulations** — browser-native experiments where the core mechanic or scientific model matters more than menu chrome.
-- **Research portals** — local C/Python tooling for turning one-off mathematical computations into reproducible datasets and benchmarks.
-- **System utilities** — small Linux/Windows tools for information, recovery and diagnostics.
-- **Simulation architecture** — experiments with strategy, logistics, command latency and political systems.
+These are smaller tools, experiments, prototypes or projects that are not the main focus of this profile.
+
+- **Netra** *(WIP · private)* — Debian-first network visibility and authorized security-assessment workbench.
+- **Wayfarer** *(WIP · private)* — compact persistent Debian live USB / recovery environment.
+- **AthanorLab** *(WIP · private)* — programmable scientific simulation workbench with composable physics modules.
+- **IPA Studio** *(WIP · private)* — speech acoustics, IPA reference estimation and accent-model research.
+- **Code Atlas** *(WIP · private)* — local-first visual code reader for symbol and dependency exploration.
+- **[linfo](https://github.com/vitae0/linfo)** / **[winfo](https://github.com/vitae0/winfo)** — terminal-first Linux and Windows system-information shells.
+- **[Circuitry](https://github.com/vitae0/circuitry)** — grid-native browser circuit simulator.
+- **[QueueGPT](https://github.com/vitae0/queuegpt)** — browser extension for queueing prompts while ChatGPT is generating.
+- **[Games & simulations](https://github.com/vitae0/games)** — browser-native games and interactive scientific simulations.
+- **[KSpiel](https://github.com/vitae0/kspiel)** — experimental command, logistics and political simulation.
 
 </details>
 
