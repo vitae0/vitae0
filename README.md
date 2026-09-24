@@ -98,12 +98,10 @@ It is designed around semantic mathematical objects, exactness metadata and nati
 </td>
 <td width="50%" valign="top">
 
-### AthanorLab
-A programmable scientific simulation workbench built around composable physics modules and a central simulation engine.
+### [GazeType](https://github.com/vitae0/gazetype)
+A camera-based accessibility system for typing with eye movement.
 
-The goal is a real virtual laboratory for mechanics, electromagnetism, fluids and reproducible numerical experiments, not a folder of disconnected demos.
-
-**Status:** WIP · private
+It combines personal calibration, gaze modelling, signal analysis and conservative model reporting, with the broader goal of making hands-free computer interaction practical on ordinary hardware.
 
 </td>
 </tr>
@@ -133,7 +131,7 @@ I work on the platform, infrastructure and projects around it.
 <br>
 
 - **IPA Studio** *(WIP)* — native speech-analysis workbench for acoustics, IPA reference estimation and accent-model research.
-- **GazeType** — camera-based eye-tracking and accessibility experiments.
+- **AthanorLab** *(WIP)* — programmable scientific simulation workbench for composable physics experiments.
 - **Games & simulations** — browser-native experiments where the core mechanic or scientific model matters more than menu chrome.
 - **Research portals** — local C/Python tooling for turning one-off mathematical computations into reproducible datasets and benchmarks.
 - **System utilities** — small Linux/Windows tools for information, recovery and diagnostics.
