@@ -47,7 +47,7 @@ A computational number theory project investigating an Apéry-style route to the
 
 Current work revolves around exact rational forms, Brown–Zudilin constructions, p-adic denominator obstructions, asymptotics and falsifying attractive-but-wrong denominator models.
 
-**Status:** active research · private working archive
+**Status:** WIP · active research · private working archive
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +57,7 @@ A local-first mathematical research laboratory for experimental mathematics, sym
 
 The rule is simple: **AI can propose; deterministic tools verify.**
 
-**Status:** active · local research infrastructure
+**Status:** WIP · active · local research infrastructure
 
 </td>
 </tr>
@@ -70,7 +70,7 @@ A Debian-first network visibility and authorized security-assessment workbench.
 
 It unifies mature Linux tools under one scope policy, one workspace and one report layer instead of pretending to replace them.
 
-**Status:** active · private
+**Status:** WIP · active · private
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,7 @@ A compact Debian-based persistent live USB environment.
 
 Portable desktop, recovery environment and diagnostics kit, with every package forced to justify its place.
 
-**Status:** active · private
+**Status:** WIP · active · private
 
 </td>
 </tr>
@@ -96,10 +96,10 @@ Includes personal calibration, gaze modelling, signal analysis and deliberately 
 </td>
 <td width="50%" valign="top">
 
-### [KSpiel](https://github.com/vitae0/kspiel)
-A browser-native modern command, logistics and political simulation.
+### [Games & Scientific Simulations](https://github.com/vitae0/games)
+A growing collection of browser-native games and interactive scientific simulations.
 
-Map-first, tick-based, multiplayer-safe architecture with logistics, intelligence and command structure treated as actual systems rather than decorative modifiers.
+The games optimize for interesting core mechanics; the simulations expose the model, equations and derivations instead of reducing science to decorative sliders.
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ I work on the platform, infrastructure and projects around it.
 <summary><b>More things currently escaping containment</b></summary>
 <br>
 
-- **IPA Studio** — native speech-analysis workbench for acoustics, IPA reference estimation and accent-model research.
+- **IPA Studio** *(WIP)* — native speech-analysis workbench for acoustics, IPA reference estimation and accent-model research.
 - **Games & simulations** — small browser-native experiments where the core mechanic or scientific model matters more than menu chrome.
 - **Research portals** — local C/Python tooling for turning one-off mathematical computations into reproducible datasets and benchmarks.
 - **System utilities** — small Linux/Windows tools for information, recovery and diagnostics.
