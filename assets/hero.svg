@@ -1,0 +1,72 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">vitae0 animated profile banner</title>
+  <desc id="desc">A dark technical field with moving signals, mathematical symbols and the text vitae slash zero.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07090d"/>
+      <stop offset="0.55" stop-color="#0b1017"/>
+      <stop offset="1" stop-color="#080a0e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#60a5fa" stop-opacity=".8"/>
+      <stop offset="0.65" stop-color="#c084fc" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+
+  <g opacity=".18" fill="none" stroke="#7dd3fc">
+    <path d="M-40 235 C120 130 230 330 390 210 S650 120 1040 205"/>
+    <path d="M-40 250 C130 170 250 290 410 230 S710 165 1040 220"/>
+  </g>
+
+  <path id="orbitA" d="M50 215 C220 85 390 315 585 168 S825 72 960 115" fill="none" stroke="url(#line)" stroke-width="2.2" opacity=".65"/>
+  <path id="orbitB" d="M55 232 C260 315 385 82 585 205 S820 290 955 165" fill="none" stroke="url(#line)" stroke-width="1.1" opacity=".34"/>
+
+  <g filter="url(#glow)">
+    <circle r="4" fill="#7dd3fc">
+      <animateMotion dur="7s" repeatCount="indefinite"><mpath href="#orbitA"/></animateMotion>
+    </circle>
+    <circle r="3.3" fill="#c084fc">
+      <animateMotion dur="10s" begin="-3s" repeatCount="indefinite"><mpath href="#orbitB"/></animateMotion>
+    </circle>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" fill="#e5e7eb">
+    <text x="72" y="108" font-size="14" letter-spacing="4" opacity=".52">RESEARCH / SYSTEMS / EXPERIMENTS</text>
+    <text x="68" y="170" font-size="58" font-weight="700" letter-spacing="-2">vitae<tspan fill="#93c5fd">/</tspan>0</text>
+    <text x="72" y="204" font-size="15" opacity=".72">build → test → falsify → rebuild</text>
+  </g>
+
+  <g font-family="Georgia, serif" fill="#ffffff" opacity=".16">
+    <text x="800" y="72" font-size="25">ζ(5)</text>
+    <text x="890" y="94" font-size="18">∂</text>
+    <text x="740" y="124" font-size="20">Σ</text>
+    <text x="842" y="145" font-size="16">p-adic</text>
+    <text x="915" y="198" font-size="24">λ</text>
+  </g>
+
+  <rect x="0" y="0" width="1000" height="2" fill="#93c5fd" opacity=".16">
+    <animate attributeName="y" values="0;298;0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".02;.18;.02" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="#93c5fd">
+    <circle cx="935" cy="42" r="2"><animate attributeName="opacity" values=".15;1;.15" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="42" r="2"><animate attributeName="opacity" values="1;.15;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="965" cy="42" r="2"><animate attributeName="opacity" values=".15;.8;.15" dur="2.2s" begin=".5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x=".5" y=".5" width="999" height="299" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>
