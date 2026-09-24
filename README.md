@@ -32,7 +32,7 @@ I don't really try to stay in one lane. If an idea is interesting enough, I'll p
 ### quote of the day
 
 <!-- QUOTE_START -->
-> *“Take interesting ideas seriously, not yourself.”*
+> *“Do not confuse polish with depth.”*
 <!-- QUOTE_END -->
 
 ## Selected work
