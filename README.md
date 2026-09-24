@@ -19,20 +19,19 @@
 
 ---
 
-### I build things that make difficult questions easier to attack.
+### I like difficult problems, useful systems, and ideas that refuse to stay in one field.
 
-Most of my work sits somewhere between **mathematics, low-level systems, scientific tooling, human-computer interaction and simulation**.
+I move between **mathematics, physics, systems, scientific software, accessibility, simulation and whatever else becomes interesting enough to build around**.
 
-I like software that exposes what it is doing instead of hiding behind a polished button.  
-Numerical evidence is evidence, **not proof**. Missing data should be reported as missing. A tool should be able to say *I don't know*.
+I tend to learn by making things: a tool, a model, a language, a simulation, an experiment, sometimes an entire project that probably should have remained a weekend idea. I care more about whether something is **interesting, rigorous and actually useful** than whether it fits neatly into one category.
 
 ```text
-current loop:
-
-question → model → compute → break assumption → rebuild → verify
-                                      ↑             |
-                                      └─────────────┘
+curiosity → build → understand → push further
+      ↑                              |
+      └──────────────────────────────┘
 ```
+
+I am usually happiest somewhere between `why does this work?` and `can I build a better version?`
 
 <p align="center">
   <img src="./assets/signal.svg" alt="animated research signal" width="92%" />
