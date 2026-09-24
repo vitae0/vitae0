@@ -88,18 +88,22 @@ Portable desktop, recovery environment and diagnostics kit, with every package f
 <tr>
 <td width="50%" valign="top">
 
-### [GazeType](https://github.com/vitae0/gazetype)
-A camera-based accessibility experiment for typing with eye movement.
+### Asia
+An experimental compiled language for mathematical and computational research.
 
-Includes personal calibration, gaze modelling, signal analysis and deliberately conservative claims about what the model actually knows.
+It is designed around semantic mathematical objects, exactness metadata and native compilation rather than treating mathematics as decorated generic code.
+
+**Status:** WIP · private
 
 </td>
 <td width="50%" valign="top">
 
-### [Games & Scientific Simulations](https://github.com/vitae0/games)
-A growing collection of browser-native games and interactive scientific simulations.
+### AthanorLab
+A programmable scientific simulation workbench built around composable physics modules and a central simulation engine.
 
-The games optimize for interesting core mechanics; the simulations expose the model, equations and derivations instead of reducing science to decorative sliders.
+The goal is a real virtual laboratory for mechanics, electromagnetism, fluids and reproducible numerical experiments, not a folder of disconnected demos.
+
+**Status:** WIP · private
 
 </td>
 </tr>
@@ -129,7 +133,8 @@ I work on the platform, infrastructure and projects around it.
 <br>
 
 - **IPA Studio** *(WIP)* — native speech-analysis workbench for acoustics, IPA reference estimation and accent-model research.
-- **Games & simulations** — small browser-native experiments where the core mechanic or scientific model matters more than menu chrome.
+- **GazeType** — camera-based eye-tracking and accessibility experiments.
+- **Games & simulations** — browser-native experiments where the core mechanic or scientific model matters more than menu chrome.
 - **Research portals** — local C/Python tooling for turning one-off mathematical computations into reproducible datasets and benchmarks.
 - **System utilities** — small Linux/Windows tools for information, recovery and diagnostics.
 - **Simulation architecture** — experiments with strategy, logistics, command latency and political systems.
