@@ -117,10 +117,10 @@ It combines gaze estimation, personal calibration, signal processing and conserv
 </td>
 <td width="50%" valign="top">
 
-### CanSat
-An embedded flight-system project combining onboard sensors, GPS, camera hardware, telemetry and a ground-station receiver/dashboard.
+### Wayfarer
+A compact persistent Debian live system for recovery, diagnostics and portable computing.
 
-It is one of the projects where software has to survive contact with actual hardware, radio links and noisy measurements, which is a refreshingly effective cure for elegant assumptions.
+The goal is a machine-independent environment I can carry, boot almost anywhere, inspect broken systems from, repair them, and still have a real working Linux setup instead of a disposable rescue shell.
 
 **Status:** WIP · private
 
@@ -137,7 +137,6 @@ Not everything needs to become a five-year research program. These are smaller t
 #### Systems & developer tools
 
 - **Netra** *(WIP · private)* — Debian-first network visibility and authorized security-assessment workbench built around Nmap, TShark, Zeek, Suricata and related tools.
-- **Wayfarer** *(WIP · private)* — compact persistent Debian live USB for recovery, diagnostics and portable computing.
 - **Code Atlas** *(WIP · private)* — local-first Tauri/Rust visual code reader for exploring files, symbols and dependency relationships.
 - **[linfo](https://github.com/vitae0/linfo)** / **[winfo](https://github.com/vitae0/winfo)** — terminal-first Linux and Windows system-information shells.
 - **[QueueGPT](https://github.com/vitae0/queuegpt)** — browser extension that queues prompts while ChatGPT is still generating.
