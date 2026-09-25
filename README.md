@@ -32,8 +32,8 @@ I don't really try to stay in one lane. If an idea is interesting enough, I'll p
 <p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
 <!-- QUOTE_START -->
-<h2 align="center"><i>“The best way to predict the future is to invent it.”</i></h2>
-<p align="center"><sub>— Alan Kay</sub></p>
+<h2 align="center"><i>“If you find a book you really want to read but it hasn&#x27;t been written yet, then you must write it.”</i></h2>
+<p align="center"><sub>— Toni Morrison</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
