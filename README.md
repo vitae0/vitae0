@@ -96,6 +96,13 @@ Its design treats sums, limits, algebraic structures and other mathematical obje
 </td>
 <td width="50%" valign="top">
 
+### Netra
+A Debian-first network visibility and authorized security-assessment workbench.
+
+It brings packet capture, service discovery, traffic inspection and defensive tooling into one inspectable local workflow, built around tools like Nmap, TShark, Zeek and Suricata instead of hiding them behind a glossy black box.
+
+**Status:** WIP · private
+
 </td>
 </tr>
 
@@ -129,7 +136,6 @@ Not everything needs to become a five-year research program. These are smaller t
 
 #### Systems & developer tools
 
-- **Netra** *(WIP · private)* — Debian-first network visibility and authorized security-assessment workbench built around Nmap, TShark, Zeek, Suricata and related tools.
 - **Code Atlas** *(WIP · private)* — local-first Tauri/Rust visual code reader for exploring files, symbols and dependency relationships.
 - **[linfo](https://github.com/vitae0/linfo)** / **[winfo](https://github.com/vitae0/winfo)** — terminal-first Linux and Windows system-information shells.
 - **[QueueGPT](https://github.com/vitae0/queuegpt)** — browser extension that queues prompts while ChatGPT is still generating.
