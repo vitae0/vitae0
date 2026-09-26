@@ -96,12 +96,10 @@ Its design treats sums, limits, algebraic structures and other mathematical obje
 </td>
 <td width="50%" valign="top">
 
-### Netra
-A Debian-first network visibility and authorized security-assessment workbench.
+### [linfo](https://github.com/vitae0/linfo) / [winfo](https://github.com/vitae0/winfo)
+Terminal-first system information tools for Linux and Windows.
 
-It brings packet capture, service discovery, traffic inspection and defensive tooling into one inspectable local workflow, built around tools like Nmap, TShark, Zeek and Suricata instead of hiding them behind a glossy black box.
-
-**Status:** WIP · private
+They focus on making machine state easy to inspect from the command line: hardware, operating system details and other useful system information without burying everything under a heavyweight interface.
 
 </td>
 </tr>
@@ -137,7 +135,6 @@ Not everything needs to become a five-year research program. These are smaller t
 #### Systems & developer tools
 
 - **Code Atlas** *(WIP · private)* — local-first Tauri/Rust visual code reader for exploring files, symbols and dependency relationships.
-- **[linfo](https://github.com/vitae0/linfo)** / **[winfo](https://github.com/vitae0/winfo)** — terminal-first Linux and Windows system-information shells.
 - **[QueueGPT](https://github.com/vitae0/queuegpt)** — browser extension that queues prompts while ChatGPT is still generating.
 - **LoviHub** *(WIP · private)* — local video-library desktop application.
 - **Focus Forge** *(WIP · private)* — local-first task board and focus timer.
