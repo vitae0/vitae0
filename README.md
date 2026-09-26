@@ -32,8 +32,8 @@ I don't really try to stay in one lane. If an idea is interesting enough, I'll p
 <p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
 <!-- QUOTE_START -->
-<h2 align="center"><i>“If you find a book you really want to read but it hasn&#x27;t been written yet, then you must write it.”</i></h2>
-<p align="center"><sub>— Toni Morrison</sub></p>
+<h2 align="center"><i>“Go and make interesting mistakes, make amazing mistakes, make glorious and fantastic mistakes.”</i></h2>
+<p align="center"><sub>— Neil Gaiman</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
