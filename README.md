@@ -96,13 +96,6 @@ Its design treats sums, limits, algebraic structures and other mathematical obje
 </td>
 <td width="50%" valign="top">
 
-### Square Packing 17
-A computational-geometry research project searching for dense packings of 17 equal squares.
-
-It combines simulated annealing, differential evolution, CMA-ES-style search, basin hopping, contact analysis and exact/algebraic reconstruction to turn numerical candidates into mathematical structure.
-
-**Status:** WIP · private research code
-
 </td>
 </tr>
 
