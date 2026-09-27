@@ -32,8 +32,8 @@ I don't really try to stay in one lane. If an idea is interesting enough, I'll p
 <p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
 <!-- QUOTE_START -->
-<h2 align="center"><i>“Go and make interesting mistakes, make amazing mistakes, make glorious and fantastic mistakes.”</i></h2>
-<p align="center"><sub>— Neil Gaiman</sub></p>
+<h2 align="center"><i>“Even bad coffee is better than no coffee at all.”</i></h2>
+<p align="center"><sub>— David Lynch</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
