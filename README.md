@@ -3,18 +3,9 @@
 </p>
 
 <p align="center">
-  <code>mathematics</code> ·
-  <code>systems</code> ·
-  <code>scientific software</code> ·
-  <code>independent projects</code>
-</p>
-
-<p align="center">
   <a href="https://github.com/vitae0?tab=repositories">repositories</a>
   ·
   <a href="https://novuscollective.org">novus collective</a>
-  ·
-  <a href="https://novus.study">novus.study</a>
 </p>
 
 ---
@@ -23,11 +14,7 @@
 
 hey, i'm `vitae0`.
 
-i'm usually somewhere between a math rabbit hole, a Linux terminal, a half-built tool, and a project that got **way bigger than it was supposed to**.
-
-I like figuring out how things work and then making something out of that. Sometimes that means number theory or scientific software; sometimes it turns into an accessibility tool, a simulator, a tiny operating environment, or a completely unnecessary side project that I now care about far too much.
-
-I don't really try to stay in one lane. If an idea is interesting enough, I'll probably poke at it until it becomes a repo.
+i like math, physics, cs and other applications of math.
 
 <p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
