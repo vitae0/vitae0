@@ -19,8 +19,8 @@ i like math, physics, cs and other applications of math.
 <p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
 <!-- QUOTE_START -->
-<h2 align="center"><i>“Even bad coffee is better than no coffee at all.”</i></h2>
-<p align="center"><sub>— David Lynch</sub></p>
+<h2 align="center"><i>“Absorb what is useful, discard what is not, add what is uniquely your own.”</i></h2>
+<p align="center"><sub>— Bruce Lee</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
