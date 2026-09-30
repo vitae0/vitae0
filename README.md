@@ -19,8 +19,8 @@ i like math, physics, cs and other applications of math.
 <p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
 <!-- QUOTE_START -->
-<h2 align="center"><i>“The unexamined life is not worth living.”</i></h2>
-<p align="center"><sub>— Socrates</sub></p>
+<h2 align="center"><i>“What stands in the way becomes the way.”</i></h2>
+<p align="center"><sub>— Marcus Aurelius</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
