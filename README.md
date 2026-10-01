@@ -19,8 +19,8 @@ i like math, physics, cs and other applications of math.
 <p align="center"><sub>QUOTE OF THE DAY</sub></p>
 
 <!-- QUOTE_START -->
-<h2 align="center"><i>“What stands in the way becomes the way.”</i></h2>
-<p align="center"><sub>— Marcus Aurelius</sub></p>
+<h2 align="center"><i>“If you have built castles in the air, your work need not be lost; that is where they should be.”</i></h2>
+<p align="center"><sub>— Henry David Thoreau</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
