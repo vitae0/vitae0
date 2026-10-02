@@ -14,13 +14,13 @@
 
 hey, i'm `vitae0`.
 
-i like math, physics, cs and other applications of math.
+i work on math, physics, systems, and whatever problem currently refuses to behave.
 
-<p align="center"><sub>QUOTE OF THE DAY</sub></p>
+most of what is here starts as an experiment. some of it becomes software; a few things turn into research. numerical evidence is evidence, not proof.
 
 <!-- QUOTE_START -->
-<h2 align="center"><i>“Your time is limited, so don&#x27;t waste it living someone else&#x27;s life.”</i></h2>
-<p align="center"><sub>— Steve Jobs</sub></p>
+<p align="center"><i>“The first principle is that you must not fool yourself — and you are the easiest person to fool.”</i><br>
+<sub>— Richard Feynman</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
@@ -30,21 +30,21 @@ i like math, physics, cs and other applications of math.
 <td width="50%" valign="top">
 
 ### ζ(5) research
-A computational number theory project investigating an Apéry-style route to the irrationality of `ζ(5)`.
 
-The work combines exact rational constructions, Brown–Zudilin periods, p-adic denominator analysis, asymptotics, large finite searches and deliberate attempts to break every promising conjecture before trusting it.
+Apéry-style work on the irrationality of `ζ(5)`: exact rational constructions, asymptotics, p-adic denominator bounds, chamber decompositions, and a fairly unreasonable amount of counterexample hunting.
 
-**Status:** WIP · active research · private working archive
+**WIP · active research · working archive**
 
 </td>
 <td width="50%" valign="top">
 
 ### Noetica
-A local-first mathematical research laboratory for experimental mathematics, counterexample search, symbolic work and proof preparation.
 
-The long-term goal is an AI-assisted research environment where model-driven exploration is separated from deterministic verification.
+Tools for experimental mathematics: exact searches, symbolic work, counterexample generation, reproducible computations, and proof bookkeeping.
 
-**Status:** WIP · private
+Models may suggest things. Deterministic code gets the final word.
+
+**WIP · private**
 
 </td>
 </tr>
@@ -53,19 +53,19 @@ The long-term goal is an AI-assisted research environment where model-driven exp
 <td width="50%" valign="top">
 
 ### [Novus Collective](https://novuscollective.org)
-An independent student collective built around collaboration, ambitious projects and giving young people room to create work that would otherwise never leave a notebook.
 
-**Founder.** I work on its direction, infrastructure, platform and projects.
+An independent student collective for people who want to make things together instead of waiting for permission to start.
+
+I founded it and work on its direction, infrastructure, publications, and projects.
 
 </td>
 <td width="50%" valign="top">
 
 ### [novus.study](https://novus.study)
-A learning and project workspace being built around reusable tools, personal workspaces and a more exploratory way of studying technical subjects.
 
-It is part of the broader Novus ecosystem rather than just a landing page.
+A workspace for learning technical subjects and building projects around them: reusable tools, personal workspaces, and less rigid paths through material.
 
-**Status:** WIP · private codebase
+**WIP · private codebase**
 
 </td>
 </tr>
@@ -74,19 +74,21 @@ It is part of the broader Novus ecosystem rather than just a landing page.
 <td width="50%" valign="top">
 
 ### Asia
-An experimental compiled language for mathematical and computational research.
 
-Its design treats sums, limits, algebraic structures and other mathematical objects as semantic objects with exactness and complexity metadata, rather than reducing everything immediately to generic arrays and functions.
+An experimental compiled language for mathematical and computational work.
 
-**Status:** WIP · private
+The interesting part is treating mathematical objects as mathematical objects for as long as possible, instead of immediately flattening everything into ordinary arrays and functions.
+
+**WIP · private**
 
 </td>
 <td width="50%" valign="top">
 
 ### [linfo](https://github.com/vitae0/linfo) / [winfo](https://github.com/vitae0/winfo)
-Terminal-first system information tools for Linux and Windows.
 
-They focus on making machine state easy to inspect from the command line: hardware, operating system details and other useful system information without burying everything under a heavyweight interface.
+Small terminal-first system information tools for Linux and Windows.
+
+Hardware, OS state, and useful diagnostics without turning `system info` into a dashboard product.
 
 </td>
 </tr>
@@ -95,76 +97,72 @@ They focus on making machine state easy to inspect from the command line: hardwa
 <td width="50%" valign="top">
 
 ### [GazeType](https://github.com/vitae0/gazetype)
-A camera-based accessibility system for typing with eye movement on ordinary hardware.
 
-It combines gaze estimation, personal calibration, signal processing and conservative model reporting, with the broader goal of practical hands-free computer interaction without specialized eye-tracking equipment.
+Camera-based hands-free typing on ordinary hardware.
+
+Gaze estimation, per-user calibration, signal processing, and careful reporting when the model is uncertain.
 
 </td>
 <td width="50%" valign="top">
 
 ### Wayfarer
-A compact persistent Debian live system for recovery, diagnostics and portable computing.
 
-The goal is a machine-independent environment I can carry, boot almost anywhere, inspect broken systems from, repair them, and still have a real working Linux setup instead of a disposable rescue shell.
+A persistent Debian live system I can carry around, boot on unfamiliar machines, inspect broken systems with, and still use as an actual Linux environment.
 
-**Status:** WIP · private
+**WIP · private**
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More projects / experiments</b> — smaller builds, prototypes and side quests</summary>
+<summary><b>More projects / experiments</b></summary>
 <br>
 
-Not everything needs to become a five-year research program. These are smaller tools, experiments, prototypes and projects I built because the problem was interesting enough to deserve code.
+#### Systems & tools
 
-#### Systems & developer tools
-
-- **Code Atlas** *(WIP · private)* — local-first Tauri/Rust visual code reader for exploring files, symbols and dependency relationships.
-- **[QueueGPT](https://github.com/vitae0/queuegpt)** — browser extension that queues prompts while ChatGPT is still generating.
-- **LoviHub** *(WIP · private)* — local video-library desktop application.
+- **Code Atlas** *(WIP · private)* — Tauri/Rust code reader for navigating files, symbols, and dependencies.
+- **[QueueGPT](https://github.com/vitae0/queuegpt)** — queues prompts while ChatGPT is still generating.
+- **LoviHub** *(WIP · private)* — local video-library desktop app.
 - **Focus Forge** *(WIP · private)* — local-first task board and focus timer.
 
-#### Science, math & modelling
+#### Science & math
 
-- **AthanorLab** *(WIP · private)* — programmable scientific simulation workbench with composable physics modules.
-- **IPA Studio** *(WIP · private)* — speech acoustics, IPA-reference estimation and accent-model research.
-- **[Circuitry](https://github.com/vitae0/circuitry)** — grid-native browser circuit simulator.
-- **Football Prediction System** *(WIP · private)* — leakage-safe football prediction and Monte Carlo tournament simulation.
-- **Research portals** — local C/Python tooling for turning one-off computations into reproducible datasets and benchmark runs.
+- **AthanorLab** *(WIP · private)* — programmable scientific simulation workbench.
+- **IPA Studio** *(WIP · private)* — speech acoustics, IPA estimation, and accent-model experiments.
+- **[Circuitry](https://github.com/vitae0/circuitry)** — browser circuit simulator.
+- **Football Prediction System** *(WIP · private)* — leakage-safe prediction and Monte Carlo tournament simulation.
+- **Research portals** — C/Python tooling for turning one-off calculations into reproducible datasets and runs.
 
-#### Apps & product experiments
+#### Apps
 
-- **Pace** *(WIP · private)* — local-first academic planner with structured topic/task data and AI-plan import.
-- **Audra** *(WIP · private)* — mobile-first music discovery experiment with behavior-driven recommendation architecture.
-- **İyilik Pasaportu** *(WIP · private)* — experimental social-impact project.
-- **inat-site** *(WIP · private)* — web experiment / prototype.
+- **Pace** *(WIP · private)* — academic planner built around structured topic and task data.
+- **Audra** *(WIP · private)* — music-discovery experiment.
+- **İyilik Pasaportu** *(WIP · private)* — social-impact project.
+- **inat-site** *(WIP · private)* — web experiment.
 
 #### Games & simulations
 
-- **[Games & simulations](https://github.com/vitae0/games)** — collection of browser-native games and interactive scientific simulations.
-- **[KSpiel](https://github.com/vitae0/kspiel)** — command, logistics and political simulation.
+- **[Games & simulations](https://github.com/vitae0/games)** — browser games and interactive scientific simulations.
+- **[KSpiel](https://github.com/vitae0/kspiel)** — strategy simulation about command, logistics, and politics.
 - **[Dungeon Ascendant](https://github.com/vitae0/funtest)** — dependency-free browser raycasting roguelike FPS.
-- **[Backrooms](https://github.com/vitae0/backrooms)** — browser game / environment experiment.
-- **[Dungeon](https://github.com/vitae0/dungeon)** — another small browser-game experiment.
+- **[Backrooms](https://github.com/vitae0/backrooms)** — browser environment/game experiment.
+- **[Dungeon](https://github.com/vitae0/dungeon)** — small browser-game experiment.
 
 </details>
 
-## How I tend to build
+## Working rules
 
 ```text
-01  make the model explicit
-02  keep the raw evidence
-03  measure the expensive part
-04  distrust pretty numerical patterns
-05  automate repetition, not judgment
-06  prefer local-first when the cloud adds nothing
-07  make failure states visible
-08  ship, then make the abstraction earn its existence
+numerical evidence != proof
+keep the raw data
+make the expensive part measurable
+try to break the conjecture before polishing it
+automate repetition, not judgment
+prefer local-first when the cloud adds nothing
 ```
 
-## Tech stack
+## Tech
 
 <table>
 <tr>
@@ -185,7 +183,7 @@ Not everything needs to become a five-year research program. These are smaller t
 </td>
 <td width="50%" valign="top">
 
-<sub>WEB / PRODUCT</sub>
+<sub>WEB</sub>
 
 <p>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript"></a>
@@ -230,29 +228,10 @@ Not everything needs to become a five-year research program. These are smaller t
 </tr>
 </table>
 
-<sub>I use whatever makes the experiment easier to inspect and reproduce. Logos are tools, not personality traits.</sub>
-
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vitae0&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="vitae0 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitae0&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="vitae0 top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vitae0&theme=transparent&hide_border=true" alt="vitae0 contribution streak" />
-</p>
-
 <details>
-<summary><b>What I am interested in right now</b></summary>
+<summary><b>current interests</b></summary>
 <br>
 
-`analytic number theory` · `p-adic structure` · `experimental mathematics` · `local AI` · `scientific interfaces` · `Linux` · `recovery systems` · `simulation` · `accessibility`
+`analytic number theory` · `p-adic structure` · `experimental mathematics` · `local AI` · `scientific interfaces` · `Linux` · `simulation` · `accessibility`
 
 </details>
-
----
-
-<p align="center">
-  <sub>Build the instrument. Test the assumption. Keep the counterexample.</sub>
-</p>
