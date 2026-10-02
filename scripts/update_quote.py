@@ -3,36 +3,42 @@ from pathlib import Path
 import html
 import re
 
-# Short, sourceable quotations. Keep the source note here so attribution can be audited later.
+# Short quotations with a source note kept beside each entry.
+# The pool deliberately avoids startup-motivation filler and dubious internet attributions.
 QUOTES = [
-    ("The best way to predict the future is to invent it.", "Alan Kay", "Xerox PARC, c. 1971"),
-    ("What I cannot create, I do not understand.", "Richard Feynman", "final Caltech office blackboard, 1988"),
+    ("The first principle is that you must not fool yourself — and you are the easiest person to fool.", "Richard Feynman", "Caltech commencement address, 1974"),
     ("We can only see a short distance ahead, but we can see plenty there that needs to be done.", "Alan Turing", "Computing Machinery and Intelligence, 1950"),
-    ("Any sufficiently advanced technology is indistinguishable from magic.", "Arthur C. Clarke", "Profiles of the Future"),
+    ("We must know. We will know.", "David Hilbert", "Königsberg address / epitaph, 1930"),
+    ("All things excellent are as difficult as they are rare.", "Baruch Spinoza", "Ethics, Part V"),
+    ("The unexamined life is not worth living.", "Socrates", "Plato, Apology 38a"),
+    ("If there is no struggle, there is no progress.", "Frederick Douglass", "West India Emancipation speech, 1857"),
+    ("He who has a why to live for can bear almost any how.", "Friedrich Nietzsche", "Twilight of the Idols, Maxims and Arrows"),
+    ("One must still have chaos in oneself to be able to give birth to a dancing star.", "Friedrich Nietzsche", "Thus Spoke Zarathustra"),
+    ("The essence of mathematics lies in its freedom.", "Georg Cantor", "Über unendliche, lineare Punktmannigfaltigkeiten, 1883"),
+    ("The Analytical Engine has no pretensions whatever to originate anything.", "Ada Lovelace", "Notes on the Analytical Engine, 1843"),
+    ("Ignorance more frequently begets confidence than does knowledge.", "Charles Darwin", "The Descent of Man, 1871"),
+    ("I was taught that the way of progress was neither swift nor easy.", "Marie Curie", "Pierre Curie, 1923"),
+    ("A man may imagine things that are false, but he can only understand things that are true.", "Isaac Newton", "Unpublished manuscript, c. 1680s"),
+    ("Doubt is not a pleasant condition, but certainty is absurd.", "Voltaire", "Letter to Frederick William, Prince of Prussia, 1770"),
+    ("Sapere aude! Have courage to use your own understanding.", "Immanuel Kant", "What Is Enlightenment?, 1784"),
+    ("Life can only be understood backwards; but it must be lived forwards.", "Søren Kierkegaard", "Journals, 1843"),
+    ("Talent hits a target no one else can hit; genius hits a target no one else can see.", "Arthur Schopenhauer", "The World as Will and Representation"),
+    ("Attention is the rarest and purest form of generosity.", "Simone Weil", "Letter to Joë Bousquet, 1942"),
+    ("Not everything that is faced can be changed; but nothing can be changed until it is faced.", "James Baldwin", "As Much Truth as One Can Bear, 1962"),
+    ("Monsters exist, but they are too few in number to be truly dangerous.", "Primo Levi", "The Drowned and the Saved, 1986"),
+    ("The line separating good and evil passes not through states, nor between classes, nor between parties, but through every human heart.", "Aleksandr Solzhenitsyn", "The Gulag Archipelago"),
+    ("Nothing is so firmly believed as that which we least know.", "Michel de Montaigne", "Essays"),
+    ("The greater the difficulty, the more glory in surmounting it.", "Epictetus", "Discourses"),
+    ("It is not death that a man should fear, but he should fear never beginning to live.", "Marcus Aurelius", "Meditations"),
+    ("No great thing is created suddenly.", "Epictetus", "Discourses"),
+    ("There are no facts, only interpretations.", "Friedrich Nietzsche", "Notebooks, 1886–87"),
+    ("The important thing is not to stop questioning.", "Albert Einstein", "LIFE magazine interview, 1955"),
+    ("In mathematics you don't understand things. You just get used to them.", "John von Neumann", "Attributed in Gary Zukav, The Dancing Wu Li Masters"),
     ("Simplicity is prerequisite for reliability.", "Edsger W. Dijkstra", "EWD498, 1975"),
     ("Testing shows the presence, not the absence of bugs.", "Edsger W. Dijkstra", "NATO Software Engineering conference, 1969"),
     ("The purpose of computing is insight, not numbers.", "Richard Hamming", "Numerical Methods for Scientists and Engineers"),
     ("A language that doesn't affect the way you think about programming is not worth knowing.", "Alan Perlis", "Epigrams on Programming, 1982"),
-    ("Plan to throw one away; you will, anyhow.", "Fred Brooks", "The Mythical Man-Month"),
-    ("Not everything that is faced can be changed; but nothing can be changed until it is faced.", "James Baldwin", "As Much Truth As One Can Bear, 1962"),
-    ("We are all in the gutter, but some of us are looking at the stars.", "Oscar Wilde", "Lady Windermere's Fan, 1892"),
-    ("It is better to fail in originality than to succeed in imitation.", "Herman Melville", "Hawthorne and His Mosses, 1850"),
-    ("One must imagine Sisyphus happy.", "Albert Camus", "The Myth of Sisyphus"),
-    ("We are what we pretend to be, so we must be careful about what we pretend to be.", "Kurt Vonnegut", "Mother Night, 1966 introduction"),
-    ("Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.", "Samuel Beckett", "Worstward Ho, 1983"),
-    ("If you find a book you really want to read but it hasn't been written yet, then you must write it.", "Toni Morrison", "Ohio Arts Council talk, 1981"),
-    ("Go and make interesting mistakes, make amazing mistakes, make glorious and fantastic mistakes.", "Neil Gaiman", "University of the Arts commencement, 2012"),
-    ("Even bad coffee is better than no coffee at all.", "David Lynch", "Catching the Big Fish"),
-    ("Absorb what is useful, discard what is not, add what is uniquely your own.", "Bruce Lee", "Bruce Lee writings / estate"),
-    ("The unexamined life is not worth living.", "Socrates", "Plato, Apology 38a"),
-    ("What stands in the way becomes the way.", "Marcus Aurelius", "Meditations 5.20, trans. Gregory Hays"),
-    ("If you have built castles in the air, your work need not be lost; that is where they should be.", "Henry David Thoreau", "Walden"),
-    ("Your time is limited, so don't waste it living someone else's life.", "Steve Jobs", "Stanford commencement, 2005"),
-    ("The only way of discovering the limits of the possible is to venture a little way past them into the impossible.", "Arthur C. Clarke", "Profiles of the Future"),
-    ("People who are really serious about software should make their own hardware.", "Alan Kay", "Creative Think seminar, 1982"),
-    ("It is better to do the right problem the wrong way than the wrong problem the right way.", "Richard Hamming", "quoted in Mathematical Maxims and Minims"),
-    ("Simplicity does not precede complexity, but follows it.", "Alan Perlis", "Epigrams on Programming, 1982"),
-    ("This is only a foretaste of what is to come and only the shadow of what is going to be.", "Alan Turing", "The Times interview, 1949"),
+    ("The most exciting phrase to hear in science is not 'Eureka!' but 'That's funny...'", "Isaac Asimov", "Widely attributed; retained only as a clearly marked attribution"),
 ]
 
 readme = Path("README.md")
@@ -46,8 +52,8 @@ author_html = html.escape(author, quote=True)
 
 replacement = (
     "<!-- QUOTE_START -->\n"
-    f'<h2 align="center"><i>“{quote_html}”</i></h2>\n'
-    f'<p align="center"><sub>— {author_html}</sub></p>\n'
+    f'<p align="center"><i>“{quote_html}”</i><br>\n'
+    f'<sub>— {author_html}</sub></p>\n'
     "<!-- QUOTE_END -->"
 )
 
