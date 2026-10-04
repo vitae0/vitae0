@@ -19,8 +19,8 @@ i work on math, physics, systems, and whatever problem currently refuses to beha
 most of what is here starts as an experiment. some of it becomes software; a few things turn into research. numerical evidence is evidence, not proof.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Attention is the rarest and purest form of generosity.”</i><br>
-<sub>— Simone Weil</sub></p>
+<p align="center"><i>“Not everything that is faced can be changed; but nothing can be changed until it is faced.”</i><br>
+<sub>— James Baldwin</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
