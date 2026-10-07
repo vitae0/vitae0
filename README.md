@@ -19,8 +19,8 @@ i work on math, physics, systems, and whatever problem currently refuses to beha
 most of what is here starts as an experiment. some of it becomes software; a few things turn into research. numerical evidence is evidence, not proof.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“The line separating good and evil passes not through states, nor between classes, nor between parties, but through every human heart.”</i><br>
-<sub>— Aleksandr Solzhenitsyn</sub></p>
+<p align="center"><i>“Nothing is so firmly believed as that which we least know.”</i><br>
+<sub>— Michel de Montaigne</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
