@@ -23,14 +23,68 @@ I maintain research notes, proof attempts, computational tools, and independent 
 
 ## Selected work
 
-| Project | Description |
-| --- | --- |
-| **[Mathematical research](https://github.com/vitae0/math)** | Research archive covering irrationality questions for odd zeta values, the Euler–Mascheroni constant, exact arithmetic, asymptotic analysis, and proof verification. Includes open obligations and unsuccessful approaches. |
-| **[ζ(5) research](https://github.com/vitae0/zeta)** | Apéry-style rational constructions, p-adic denominator estimates, asymptotic bounds, and computational checks. Work in progress; no unverified irrationality claim is presented as a theorem. |
-| **[KSpiel](https://github.com/vitae0/kspiel)** | Strategy simulation exploring logistics, supply networks, terrain, and command decisions. |
-| **[Novus Collective](https://novuscollective.org)** | Independent student collective I founded; I work on its technical infrastructure, publications, and organization. |
-| **[Games & simulations](https://github.com/vitae0/games)** | Interactive browser experiments and scientific simulations. |
-| **[linfo](https://github.com/vitae0/linfo) / [winfo](https://github.com/vitae0/winfo)** | Lightweight command-line system information utilities for Linux and Windows. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Mathematical research](https://github.com/vitae0/math)
+
+Research archive on odd zeta values, the Euler–Mascheroni constant, exact arithmetic, and proof verification.
+
+**Active research**
+
+</td>
+<td width="50%" valign="top">
+
+### [ζ(5) research](https://github.com/vitae0/zeta)
+
+Apéry-style constructions, asymptotics, p-adic denominator bounds, and rigorous computational checks.
+
+**Active research**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Novus Collective](https://novuscollective.org)
+
+Independent student collective I founded, spanning technical infrastructure, publications, and collaborative projects.
+
+
+
+</td>
+<td width="50%" valign="top">
+
+### [KSpiel](https://github.com/vitae0/kspiel)
+
+Strategy simulation centered on logistics, supply networks, terrain, and command decisions.
+
+**In development**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Games & simulations](https://github.com/vitae0/games)
+
+Browser games and interactive scientific simulations.
+
+
+
+</td>
+<td width="50%" valign="top">
+
+### [linfo](https://github.com/vitae0/linfo) / [winfo](https://github.com/vitae0/winfo)
+
+Terminal-first system information utilities for Linux and Windows.
+
+
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>More projects / experiments</b></summary>
@@ -68,14 +122,58 @@ I maintain research notes, proof attempts, computational tools, and independent 
 
 </details>
 
-## Tech stack
+## Tech
 
-Languages and tools I use regularly, rather than an inventory of everything I have tried.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Languages:** C, C++, C#, Python, JavaScript, TypeScript, HTML/CSS
+<sub>LANGUAGES / SYSTEMS</sub>
 
-**Development:** Linux, Git, GitHub, Bash
+<p>
+  <a href="https://www.c-language.org/" title="C"><img src="https://skillicons.dev/icons?i=c" width="44" alt="C"></a>
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="44" alt="C++"></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs" width="44" alt="C#"></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"></a>
+  <a href="https://www.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux"></a>
+</p>
 
-**Web:** React, Node.js
+</td>
+<td width="50%" valign="top">
 
-**Scientific computing:** NumPy
+<sub>WEB</sub>
+
+<p>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript"></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS"></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>TOOLS</sub>
+
+<p>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="44" alt="Bash"></a>
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>COMPUTE</sub>
+
+<p>
+  <a href="https://numpy.org/" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="44" alt="NumPy"></a>
+</p>
+
+</td>
+</tr>
+</table>
