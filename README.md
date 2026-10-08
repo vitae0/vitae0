@@ -56,20 +56,20 @@ Independent student collective I founded, spanning technical infrastructure, pub
 </td>
 <td width="50%" valign="top">
 
-### [KSpiel](https://github.com/vitae0/kspiel)
+### Noetica
 
-Strategy simulation centered on logistics, supply networks, terrain, and command decisions.
+Experimental mathematics tooling for exact searches, symbolic computation, counterexample generation, and reproducible research.
 
-**In development**
+**WIP · private**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Games & simulations](https://github.com/vitae0/games)
+### [Circuitry](https://github.com/vitae0/circuitry)
 
-Browser games and interactive scientific simulations.
+An interactive browser-based circuit simulator for building and testing electronic systems.
 
 
 
