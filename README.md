@@ -38,7 +38,7 @@ Research archive on odd zeta values, the Euler–Mascheroni constant, exact arit
 
 ### [ζ(5) research](https://github.com/vitae0/zeta)
 
-Apéry-style constructions, asymptotics, p-adic denominator bounds, and rigorous computational checks.
+Researching about a potential irrationality proof via Apéry-style linear constructions.
 
 **Active research**
 
@@ -49,7 +49,7 @@ Apéry-style constructions, asymptotics, p-adic denominator bounds, and rigorous
 
 ### [Novus Collective](https://novuscollective.org)
 
-Independent student collective I founded, spanning technical infrastructure, publications, and collaborative projects.
+Independent student collaboration collective based on social benefit which I founded.
 
 
 
@@ -58,7 +58,7 @@ Independent student collective I founded, spanning technical infrastructure, pub
 
 ### Noetica
 
-Experimental mathematics tooling for exact searches, symbolic computation, counterexample generation, and reproducible research.
+Experimental math focused AI orchestrating systems.
 
 **WIP · private**
 
