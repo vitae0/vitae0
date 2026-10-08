@@ -1,6 +1,6 @@
 <svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">vitae0</title>
-  <desc id="desc">Minimal dark banner displaying vitae0.</desc>
+  <desc id="desc">Animated dark technical field with moving signals and the name vitae0.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -44,7 +44,15 @@
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" fill="#e5e7eb">
-    <text x="500" y="169" text-anchor="middle" font-size="64" font-weight="700" letter-spacing="-2">vitae0</text>
+    <text x="72" y="170" font-size="64" font-weight="700" letter-spacing="-2">vitae0</text>
+  </g>
+
+  <g font-family="Georgia, serif" fill="#ffffff" opacity=".16">
+    <text x="800" y="72" font-size="25">ζ(5)</text>
+    <text x="890" y="94" font-size="18">∂</text>
+    <text x="740" y="124" font-size="20">Σ</text>
+    <text x="842" y="145" font-size="16">p-adic</text>
+    <text x="915" y="198" font-size="24">λ</text>
   </g>
 
   <rect x="0" y="0" width="1000" height="2" fill="#93c5fd" opacity=".16">
