@@ -19,8 +19,8 @@ i work on math, physics, systems, and whatever problem currently refuses to beha
 most of what is here starts as an experiment. some of it becomes software; a few things turn into research. numerical evidence is evidence, not proof.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Nothing is so firmly believed as that which we least know.”</i><br>
-<sub>— Michel de Montaigne</sub></p>
+<p align="center"><i>“The greater the difficulty, the more glory in surmounting it.”</i><br>
+<sub>— Epictetus</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
