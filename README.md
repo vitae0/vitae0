@@ -56,7 +56,7 @@ Independent student collaboration collective based on social benefit which I fou
 </td>
 <td width="50%" valign="top">
 
-### Noetica
+### [Noetica](https://github.com/vitae0/noetica)
 
 Experimental math focused AI orchestrating systems.
 
@@ -67,9 +67,9 @@ Experimental math focused AI orchestrating systems.
 <tr>
 <td width="50%" valign="top">
 
-### [Circuitry](https://github.com/vitae0/circuitry)
+### [GazeType](https://github.com/vitae0/gazetype)
 
-An interactive browser-based circuit simulator for building and testing electronic systems.
+Camera-based hands-free typing with gaze estimation, per-user calibration, and signal processing.
 
 
 
