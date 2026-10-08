@@ -126,7 +126,7 @@ Terminal-first system information utilities for Linux and Windows.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <sub>LANGUAGES / SYSTEMS</sub>
 
@@ -139,7 +139,7 @@ Terminal-first system information utilities for Linux and Windows.
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <sub>WEB</sub>
 
@@ -153,9 +153,7 @@ Terminal-first system information utilities for Linux and Windows.
 </p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <sub>TOOLS</sub>
 
