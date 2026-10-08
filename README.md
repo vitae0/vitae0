@@ -166,14 +166,5 @@ Terminal-first system information utilities for Linux and Windows.
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<sub>COMPUTE</sub>
-
-<p>
-  <a href="https://numpy.org/" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="44" alt="NumPy"></a>
-</p>
-
-</td>
 </tr>
 </table>
