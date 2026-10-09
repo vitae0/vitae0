@@ -17,7 +17,7 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“The greater the difficulty, the more glory in surmounting it.”</i><br>
+<p align="center"><i>“No great thing is created suddenly.”</i><br>
 <sub>— Epictetus</sub></p>
 <!-- QUOTE_END -->
 
