@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“No great thing is created suddenly.”</i><br>
-<sub>— Epictetus</sub></p>
+<p align="center"><i>“Simplicity is prerequisite for reliability.”</i><br>
+<sub>— Edsger W. Dijkstra</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
