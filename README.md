@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“We must know. We will know.”</i><br>
-<sub>— David Hilbert</sub></p>
+<p align="center"><i>“All things excellent are as difficult as they are rare.”</i><br>
+<sub>— Baruch Spinoza</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
