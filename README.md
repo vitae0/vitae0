@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“If there is no struggle, there is no progress.”</i><br>
-<sub>— Frederick Douglass</sub></p>
+<p align="center"><i>“He who has a why to live for can bear almost any how.”</i><br>
+<sub>— Friedrich Nietzsche</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
