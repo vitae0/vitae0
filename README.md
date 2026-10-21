@@ -17,7 +17,7 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“He who has a why to live for can bear almost any how.”</i><br>
+<p align="center"><i>“One must still have chaos in oneself to be able to give birth to a dancing star.”</i><br>
 <sub>— Friedrich Nietzsche</sub></p>
 <!-- QUOTE_END -->
 
