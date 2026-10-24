@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“The Analytical Engine has no pretensions whatever to originate anything.”</i><br>
-<sub>— Ada Lovelace</sub></p>
+<p align="center"><i>“Ignorance more frequently begets confidence than does knowledge.”</i><br>
+<sub>— Charles Darwin</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
