@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Doubt is not a pleasant condition, but certainty is absurd.”</i><br>
-<sub>— Voltaire</sub></p>
+<p align="center"><i>“Sapere aude! Have courage to use your own understanding.”</i><br>
+<sub>— Immanuel Kant</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
