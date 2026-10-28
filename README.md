@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Sapere aude! Have courage to use your own understanding.”</i><br>
-<sub>— Immanuel Kant</sub></p>
+<p align="center"><i>“Life can only be understood backwards; but it must be lived forwards.”</i><br>
+<sub>— Søren Kierkegaard</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
