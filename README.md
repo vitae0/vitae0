@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Attention is the rarest and purest form of generosity.”</i><br>
-<sub>— Simone Weil</sub></p>
+<p align="center"><i>“Not everything that is faced can be changed; but nothing can be changed until it is faced.”</i><br>
+<sub>— James Baldwin</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
