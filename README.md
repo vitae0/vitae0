@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“The line separating good and evil passes not through states, nor between classes, nor between parties, but through every human heart.”</i><br>
-<sub>— Aleksandr Solzhenitsyn</sub></p>
+<p align="center"><i>“Nothing is so firmly believed as that which we least know.”</i><br>
+<sub>— Michel de Montaigne</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
