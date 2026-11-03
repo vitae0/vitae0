@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Nothing is so firmly believed as that which we least know.”</i><br>
-<sub>— Michel de Montaigne</sub></p>
+<p align="center"><i>“The greater the difficulty, the more glory in surmounting it.”</i><br>
+<sub>— Epictetus</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
