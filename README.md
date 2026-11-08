@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“The purpose of computing is insight, not numbers.”</i><br>
-<sub>— Richard Hamming</sub></p>
+<p align="center"><i>“A language that doesn&#x27;t affect the way you think about programming is not worth knowing.”</i><br>
+<sub>— Alan Perlis</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
