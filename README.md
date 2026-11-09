@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“A language that doesn&#x27;t affect the way you think about programming is not worth knowing.”</i><br>
-<sub>— Alan Perlis</sub></p>
+<p align="center"><i>“The first principle is that you must not fool yourself — and you are the easiest person to fool.”</i><br>
+<sub>— Richard Feynman</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
