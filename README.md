@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”</i><br>
-<sub>— Alan Turing</sub></p>
+<p align="center"><i>“We must know. We will know.”</i><br>
+<sub>— David Hilbert</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
