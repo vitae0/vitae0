@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“One must still have chaos in oneself to be able to give birth to a dancing star.”</i><br>
-<sub>— Friedrich Nietzsche</sub></p>
+<p align="center"><i>“The essence of mathematics lies in its freedom.”</i><br>
+<sub>— Georg Cantor</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
