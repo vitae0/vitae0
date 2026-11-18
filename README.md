@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“The essence of mathematics lies in its freedom.”</i><br>
-<sub>— Georg Cantor</sub></p>
+<p align="center"><i>“The Analytical Engine has no pretensions whatever to originate anything.”</i><br>
+<sub>— Ada Lovelace</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
