@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Life can only be understood backwards; but it must be lived forwards.”</i><br>
-<sub>— Søren Kierkegaard</sub></p>
+<p align="center"><i>“Attention is the rarest and purest form of generosity.”</i><br>
+<sub>— Simone Weil</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
