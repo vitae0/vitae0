@@ -17,8 +17,8 @@ I am an independent student researcher interested in mathematical analysis, numb
 I maintain research notes, proof attempts, computational tools, and independent software projects. Mathematical claims are distinguished from conjectures and numerical observations.
 
 <!-- QUOTE_START -->
-<p align="center"><i>“Not everything that is faced can be changed; but nothing can be changed until it is faced.”</i><br>
-<sub>— James Baldwin</sub></p>
+<p align="center"><i>“Monsters exist, but they are too few in number to be truly dangerous.”</i><br>
+<sub>— Primo Levi</sub></p>
 <!-- QUOTE_END -->
 
 ## Selected work
